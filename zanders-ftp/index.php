@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Zanders FTP Products
- * Plugin URI: http://git.shalakolee.com/
+ * Plugin URI: http://git.shalakolee.com/woocommerce/zanders-ftp-plugin
  * Description: Download Inventory from Zanders ftp and sync with woocommerce products
  * Version: 0.1a
  * Author: Shalako Lee
