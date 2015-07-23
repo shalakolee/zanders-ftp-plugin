@@ -9,6 +9,7 @@ class shalako_FtpConnection
 	protected $username;
 	protected $password;
 	protected $passive;
+	
 	public $port = 21;
 	public $timeout = 60;
 
